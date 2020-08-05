@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on personal project
 - 🌱 I’m currently learning python
 - 👯 I’m looking to collaborate on file system manager
-- 🤔 I’m looking for help with UX
+- 🤔 I’m looking for a help with UX
 - 💬 Ask me anything
 
 <!--
